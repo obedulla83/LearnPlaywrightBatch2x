@@ -28,9 +28,16 @@ A comprehensive JavaScript learning resource covering fundamentals, concepts, an
 - **12_let_people_love.js** - Understanding `let` keyword
 - **13_const_explained.js** - Understanding `const` keyword
 - **14_var_functionscope.js** - Function scope with `var`
-- **15_let_scope.js** - Block scope with `let`
+- **15_let_scope,js** - Block scope with `let`
 - **16_Hoisting.js** - Variable hoisting concepts
 - **17_Hoisting_fn.js** - Function hoisting concepts
+- **18_let_hoisting.js** - `let` hoisting behavior
+- **19_let_hoisting_block.js** - Block hoisting with `let`
+- **20_let_const.js** - `let` vs `const` examples
+- **21_Jr_QA.js** - Junior QA practice questions
+
+### Chapter 05: Literal
+- **22_Literal.js** - Literal types and values
 
 ## Getting Started
 
