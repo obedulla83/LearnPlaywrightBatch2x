@@ -38,6 +38,7 @@ A comprehensive JavaScript learning resource covering fundamentals, concepts, an
 
 ### Chapter 05: Literal
 - **22_Literal.js** - Literal types and values
+- **23_null_undefined.js** - `null` and `undefined` examples
 
 ## Getting Started
 
