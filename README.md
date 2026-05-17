@@ -39,6 +39,8 @@ A comprehensive JavaScript learning resource covering fundamentals, concepts, an
 ### Chapter 05: Literal
 - **22_Literal.js** - Literal types and values
 - **23_null_undefined.js** - `null` and `undefined` examples
+ - **28_Template_Literal.js** - Template literals and usage
+ - **29_Backtick_single_double.js** - Backticks support interpolation and multi-line; single/double are plain strings
 
 ## Getting Started
 
