@@ -39,8 +39,26 @@ A comprehensive JavaScript learning resource covering fundamentals, concepts, an
 ### Chapter 05: Literal
 - **22_Literal.js** - Literal types and values
 - **23_null_undefined.js** - `null` and `undefined` examples
- - **28_Template_Literal.js** - Template literals and usage
- - **29_Backtick_single_double.js** - Backticks support interpolation and multi-line; single/double are plain strings
+- **28_Template_Literal.js** - Template literals and usage
+- **29_Backtick_single_double.js** - Backticks support interpolation and multi-line; single/double are plain strings
+
+
+### Chapter 06: Operator
+- **30_Operator.js** - Operator overview and usage
+- **31_Arithmetic_OP.js** - Arithmetic operators
+- **32_Modulus.OP.js** - Modulus operator
+- **33_Expo_OP,js** - Exponentiation operator
+- **34_IQ.js** - Comparison basics
+- **35_Comparsion_OP.js** - Comparison operator examples
+- **36_Comparsion_Strict_loose.js** - Strict vs loose equality
+- **37_IQ_Loose_Strict.js** - Loose and strict comparison rules
+- **38_Confusing_Comparsion.js** - Common == vs === pitfalls and typeof results
+- **39_Logical_Op.js** - Logical operators
+- **40_String_Con_Op.js** - String concatenation and operators
+- **41_Ternary_Op.js** - Ternary operator usage
+- **42_Type_Op.js** - Type-related operators
+- **43_Incre_Decre_Op.js** - Increment and decrement operators
+- **44_Null_Op.js** - Nullish and default operators
 
 ## Getting Started
 
@@ -68,3 +86,4 @@ A comprehensive JavaScript learning resource covering fundamentals, concepts, an
 ## License
 
 This is a learning resource. Feel free to use and modify for educational purposes.
+
